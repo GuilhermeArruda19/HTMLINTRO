@@ -1,0 +1,19 @@
+{
+  "name": "htmlintro",
+  "version": "1.0.0",
+  "description": "Primeiro Web Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeArruda19/HTMLINTRO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilhermeArruda19/HTMLINTRO/issues"
+  },
+  "homepage": "https://github.com/GuilhermeArruda19/HTMLINTRO#readme"
+}
